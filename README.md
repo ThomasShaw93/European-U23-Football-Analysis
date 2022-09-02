@@ -15,6 +15,7 @@ Other tools used:
 - Tableau
 - Powerpoint
 # Data
-The data has been taken from fbref.com and comprises on there standard football statistics for players from europes top 5 leagues in the 2021/2022.
+The data has been taken from fbref.com and comprises of there standard football statistics for players from europes top 5 leagues in the 2021/2022.
 # Links
+- [Data](https://fbref.com/en/comps/Big5/2021-2022/2021-2022-Big-5-European-Leagues-Stats)
 - [Tableau dashboard link](https://public.tableau.com/app/profile/thomas.shaw/viz/EuropeanU23FootballAnalysis/EuropeanU23FootballAnalysis)
